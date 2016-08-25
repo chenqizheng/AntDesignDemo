@@ -1,0 +1,80 @@
+{
+  "name": "销售订单",
+  "layout": [
+    {
+      "type": "flex",
+      "content": [
+        {
+          "id": "name_label",
+          "type": "text",
+          "value": "$name"
+        },
+        {
+          "id": "name_input",
+          "type": "input",
+          "format": "password",
+          "hint": "$name_hint"
+        }
+      ]
+    },
+    {
+      "type": "flex",
+      "content": [
+        {
+          "id": "customer_label",
+          "type": "text",
+          "value": "$customer"
+        },
+        {
+          "id": "customer",
+          "type": "input",
+          "hint": "$customer_hint"
+        }
+      ]
+    },{
+      "type": "flex",
+      "content": [
+        {
+          "id": "customer_label",
+          "type": "text",
+          "value": "$customer"
+        },
+        {
+          "id": "customer",
+          "type": "input",
+          "hint": "$customer_hint"
+        }
+      ]
+    },
+    {
+      "type": "flex",
+      "content": [
+        {
+          "id": "customer_label",
+          "type": "text",
+          "value": "$customer"
+        },
+        {
+          "id": "customer",
+          "type": "input",
+          "hint": "$customer_hint"
+        }
+      ]
+    },
+    {
+      "type": "flex",
+      "content": [
+        {
+          "id": "customer_label",
+          "type": "text",
+          "value": "$customer"
+        },
+        {
+          "id": "customer",
+          "type": "input",
+          "hint": "$customer_hint"
+        }
+      ]
+    }
+  ]
+}

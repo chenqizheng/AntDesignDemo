@@ -1,0 +1,3 @@
+{
+  "plugins": [["antd", ["antd", [{ "libraryName": "antd", "style": "css" }]]]]
+}
